@@ -1,0 +1,14 @@
+{
+  "modules": [
+    {
+      "type": "sandbox",
+      "name": "meme-generator",
+      "folder": "meme-generator"
+    },
+    {
+      "type": "nodejs",
+      "name": "backend-meme",
+      "folder": "backend-meme"
+    }
+  ]
+}

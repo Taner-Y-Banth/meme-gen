@@ -1,0 +1,13 @@
+select{
+  border-width: 64px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  text-align: left;
+  background-image: linear-gradient(to right, rgba(28, 87, 155, 0.306), rgb(8, 59, 104));
+}
